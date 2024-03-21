@@ -1,0 +1,27 @@
+/* cores.css */
+
+h1 {
+    text-align: center;
+    color: rgb(196, 40, 40);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(156, 22, 22);
+}
+
+body {
+    background-color: rgba(207, 131, 32, 0.534);
+    background-image: url('https://camo.envatousercontent.com/11bd8a5c31d05df78eb32e625ac50de280263ad9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32366e36584a646c36344c51426c4f43732f67697068792e676966');
+  }
+
+  .center {
+    min-height: 60vh;
+    text-align: center;
+    background-color: white;
+    border: 15px solid rgba(116, 93, 47, 0.534);
+    padding: 20px;
+    margin: auto;
+    width: 40%;
+    font-size: 18px;
+  }
