@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>This is a picoCTF JS Example</title>
+            <script>
+                function myFunctionSum(){
+                    var number1 = parseInt(document.getElementById("number1").value); //Convert the value to number
+                    var number2 = parseInt(document.getElementById("number2").value);
+                    var result = number1 + number2
+                    //var result = Number(number1) + Number(number2); other way without parseInt..
+                    alert(result);
+                }
+            </script>
+        </head>
+        <body>
+            <h1>JavaScript example to add2 numbers</h1>
+            Input the first number<br>
+            <input type="text" id="number1"  ><br>
+            Input the second number<br>
+            <input type="text" id="number2" ><br>
+            <button onclick="myFunctionSum()"> Show alert! </button>
+        </body>
+    </html>
