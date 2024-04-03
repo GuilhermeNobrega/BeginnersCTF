@@ -1,3 +1,3 @@
 # BeginnersCTF
 
-https://github.com/GuilhermeNobrega/BeginnersCTF/BeginnersCTF.html
+ https://guilhermenobrega.github.io/BeginnersCTF/BeginnersCTF.html
